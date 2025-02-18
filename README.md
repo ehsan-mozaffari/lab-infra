@@ -1,1 +1,1 @@
-# lab-infra
+# mvp-infra
